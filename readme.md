@@ -1,8 +1,6 @@
-Desktop Search Engine:
+Desktop Search Engine: (for Pdf, Doc and txt files)
 -----------------------
-
-We can search for files based on the text content present within that file.
-Or in a generic way, we can also search based on the file type.
+To Search a directory, including its sub-directories for text present in that file and the filename itself. 
 
 Step 1:
 -------
